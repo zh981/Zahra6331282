@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="hotels.xsl"?>
+
+<hotels>
+
+	<details>
+	 <name>Jumeirah Al Naseem</name>
+	 <image>alnaseem.jpg</image>
+	 <rating>4.5/5</rating>
+	 <address>Jumeirah St, Umm Suqeim 3, Dubai</address>
+	 <website>https://www.jumeirah.com/en/stay/dubai/jumeirah-al-naseem</website>
+	 <booking>http://www.booking.com/Share-Ta8oDS</booking>
+	</details>
+
+	<details>
+	 <name>Palazzo Versace</name>
+	 <image>palazzo.jpg</image>
+	 <rating>4.6/5</rating>
+	 <address>Jaddaf Waterfront, Dubai</address>
+	 <website>https://www.palazzoversace.ae/en/default.html</website>
+	 <booking>http://www.booking.com/Share-gdMvm8</booking>
+	</details>
+
+	<details>
+	 <name>Fairmont Ajman</name>
+	 <image>fairmont.jpg</image>
+	 <rating>4.6/5</rating>
+	 <address>Sheikh Humaid Bin Rashid Al Nuaimi Street, Al OwanAl Nakhil 2, Ajman</address>
+	 <website>https://www.fairmont.com/ajman/</website>
+	 <booking>http://www.booking.com/Share-BANmCP</booking>
+	</details>
+
+	<details>
+	 <name>Ritz Carlton Ras Al Khaimah</name>
+	 <image>ritzcarlton.jpg</image>
+	 <rating>4.6/5</rating>
+	 <address>Vienna St, Al Hamra Village, Ras Al Khaimah</address>
+	 <website>https://www.ritzcarlton.com/en/hotels/uae/al-hamra-beach</website>
+	 <booking>http://www.booking.com/Share-AzkjX9</booking>
+	</details>
+
+	<details>
+	 <name>Emirates Palace</name>
+	 <image>emiratespalace.jpg</image>
+	 <rating>4.8/5</rating>
+	 <address>Corniche Rd W, Al Ras Al Akhdar, Abu Dhabi</address>
+	 <website>https://www.mandarinoriental.com/abu-dhabi/emirates-palace/luxury-hotel</website>
+	 <booking>http://www.booking.com/Share-SF4bcsq</booking>
+	</details>
+
+	<details>
+	 <name>Emerald Palace Kempinski</name>
+	 <image>emerald.jpg</image>
+	 <rating>4.7/5</rating>
+	 <address>Crescent West, Dubai.</address>
+	 <website>https://www.kempinski.com/en/dubai/emerald-palace-kempinski-dubai/</website>
+	 <booking>http://www.booking.com/Share-zIdbRUD</booking>
+	</details>
+
+
+</Hotels>
